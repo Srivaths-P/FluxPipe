@@ -2,7 +2,8 @@
 
 This project provides a complete workflow for generating and simulating planar RF spiral transformers. It uses `gdsfactory` for parametric GDS layout generation and `OpenEMS` for full-wave electromagnetic simulation.
 
-![](./demo/config1/sim_config.png)
+<img src="./demo/config1/layout.png" width="480" />
+<img src="./demo/config1/sim_config.png" width="480" />
 
 ## Key Features
 
